@@ -1,4 +1,4 @@
-# ‘Style Transfer using Generative Adversarial Network (GAN)’
+# Style Transfer using Generative Adversarial Network (GAN)
 
  
 Problem statement:
