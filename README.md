@@ -11,7 +11,7 @@ Generative adversarial networks (GANs) provide the luxury of creating another ty
 
  # Result 
 
-![Alt Text](https://github.com/amitt00/CGAN-MRI-Image-generation/blob/main/GAN1.gif)
+![Alt Text](https://github.com/amitt00/CGAN-MRI-Image-generation/blob/main/GAN01.gif)
 
 
  
